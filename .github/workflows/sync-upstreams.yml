@@ -1,0 +1,39 @@
+name: Sync upstream plugins
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream-plugins
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out source hub
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          submodules: false
+
+      - name: Update gitlinks to upstream heads (without executing upstream code)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/sync_upstreams.py
+
+      - name: Commit changes if any
+        run: |
+          if git diff --cached --quiet; then
+            echo "No upstream changes."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: sync upstream plugin revisions'
+          git push origin "HEAD:${GITHUB_REF_NAME}"
