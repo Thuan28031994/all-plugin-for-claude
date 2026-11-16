@@ -34,7 +34,7 @@
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "9e6a96c677431465de3b2d8d3c38d14f64811cd0"
+      "sha": "8c3c39b5220f7fb0c53af5362863a2377f756279"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "9b5a3ce74abed0272dc05b8b9ac8182a9735b2fb"
+      "sha": "a0848ad3533cce3ebeb68f3870d5f065c721a1d1"
     }
   }
 }
