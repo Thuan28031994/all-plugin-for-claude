@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "superpowers": {
+      "repository": "obra/superpowers",
+      "branch": "main",
+      "sha": "22f0b463e7a5e579904dd6211a520321035526f7"
+    },
+    "mattpocock-skills": {
+      "repository": "mattpocock/skills",
+      "branch": "main",
+      "sha": "5863806dd4e15c63174bee4e7515a4256792ecfa"
+    },
+    "ecc": {
+      "repository": "affaan-m/ECC",
+      "branch": "main",
+      "sha": "d2ef2680594f9a17526a6e1a2e18b3d242c5d17b"
+    },
+    "anthropic-skills": {
+      "repository": "anthropics/skills",
+      "branch": "main",
+      "sha": "1780c5e5a552fd4d1c9d6a7b0cab26b0c2bef064"
+    },
+    "ponytail": {
+      "repository": "DietrichGebert/ponytail",
+      "branch": "main",
+      "sha": "96608e078b2d5ea607c5c3b8b5a54d1c1fba6846"
+    },
+    "ui-ux-pro-max": {
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "branch": "main",
+      "sha": "902bf616a0cc590d3f89f233f0c4e00072e549f0"
+    },
+    "gstack": {
+      "repository": "garrytan/gstack",
+      "branch": "main",
+      "sha": "9e6a96c677431465de3b2d8d3c38d14f64811cd0"
+    },
+    "caveman": {
+      "repository": "JuliusBrussee/caveman",
+      "branch": "main",
+      "sha": "b4ee71d557d96e3cbc14f88fa6e953a1362865f5"
+    },
+    "agent-skills": {
+      "repository": "addyosmani/agent-skills",
+      "branch": "main",
+      "sha": "39b723ceebf81474d0557c1fecd01eddab585563"
+    },
+    "claude-mem": {
+      "repository": "thedotmack/claude-mem",
+      "branch": "main",
+      "sha": "f705e9b99601dd9ac03e2f77c5aded6ff3d9471b"
+    },
+    "humanizer": {
+      "repository": "blader/humanizer",
+      "branch": "main",
+      "sha": "b48c832f0f809c1b5658edbb838c2521b72f2413"
+    },
+    "notebooklm-skill": {
+      "repository": "PleasePrompto/notebooklm-skill",
+      "branch": "master",
+      "sha": "c80722d3f27d65e06b6579add201bf69b99101d0"
+    },
+    "hyperframes": {
+      "repository": "heygen-com/hyperframes",
+      "branch": "main",
+      "sha": "9b5a3ce74abed0272dc05b8b9ac8182a9735b2fb"
+    }
+  }
+}
