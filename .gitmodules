@@ -1,0 +1,52 @@
+[submodule "plugins/superpowers"]
+	path = plugins/superpowers
+	url = https://github.com/obra/superpowers.git
+	branch = main
+[submodule "plugins/mattpocock-skills"]
+	path = plugins/mattpocock-skills
+	url = https://github.com/mattpocock/skills.git
+	branch = main
+[submodule "plugins/ecc"]
+	path = plugins/ecc
+	url = https://github.com/affaan-m/ECC.git
+	branch = main
+[submodule "plugins/anthropic-skills"]
+	path = plugins/anthropic-skills
+	url = https://github.com/anthropics/skills.git
+	branch = main
+[submodule "plugins/ponytail"]
+	path = plugins/ponytail
+	url = https://github.com/DietrichGebert/ponytail.git
+	branch = main
+[submodule "plugins/ui-ux-pro-max"]
+	path = plugins/ui-ux-pro-max
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+	branch = main
+[submodule "plugins/gstack"]
+	path = plugins/gstack
+	url = https://github.com/garrytan/gstack.git
+	branch = main
+[submodule "plugins/caveman"]
+	path = plugins/caveman
+	url = https://github.com/JuliusBrussee/caveman.git
+	branch = main
+[submodule "plugins/agent-skills"]
+	path = plugins/agent-skills
+	url = https://github.com/addyosmani/agent-skills.git
+	branch = main
+[submodule "plugins/claude-mem"]
+	path = plugins/claude-mem
+	url = https://github.com/thedotmack/claude-mem.git
+	branch = main
+[submodule "plugins/humanizer"]
+	path = plugins/humanizer
+	url = https://github.com/blader/humanizer.git
+	branch = main
+[submodule "plugins/notebooklm-skill"]
+	path = plugins/notebooklm-skill
+	url = https://github.com/PleasePrompto/notebooklm-skill.git
+	branch = master
+[submodule "plugins/hyperframes"]
+	path = plugins/hyperframes
+	url = https://github.com/heygen-com/hyperframes.git
+	branch = main
