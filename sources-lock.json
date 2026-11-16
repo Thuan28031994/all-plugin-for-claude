@@ -19,7 +19,7 @@
     "anthropic-skills": {
       "repository": "anthropics/skills",
       "branch": "main",
-      "sha": "1780c5e5a552fd4d1c9d6a7b0cab26b0c2bef064"
+      "sha": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba"
     },
     "ponytail": {
       "repository": "DietrichGebert/ponytail",
@@ -29,17 +29,17 @@
     "ui-ux-pro-max": {
       "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
       "branch": "main",
-      "sha": "902bf616a0cc590d3f89f233f0c4e00072e549f0"
+      "sha": "e59ff376a41f7ca47b7541ad5c116495cbade3ee"
     },
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "8c3c39b5220f7fb0c53af5362863a2377f756279"
+      "sha": "5dcd76b4eae6bb06f73460d3ab29cef8e33e8537"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
       "branch": "main",
-      "sha": "b4ee71d557d96e3cbc14f88fa6e953a1362865f5"
+      "sha": "9b243662ff98d392bc0a95b865a554583d71be75"
     },
     "agent-skills": {
       "repository": "addyosmani/agent-skills",
@@ -49,7 +49,7 @@
     "claude-mem": {
       "repository": "thedotmack/claude-mem",
       "branch": "main",
-      "sha": "f705e9b99601dd9ac03e2f77c5aded6ff3d9471b"
+      "sha": "82d3602e2e43503ffd39c180b2af5f7521fc457b"
     },
     "humanizer": {
       "repository": "blader/humanizer",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "a0848ad3533cce3ebeb68f3870d5f065c721a1d1"
+      "sha": "071a2da0b5b1f3d278650fb432da79b32726990d"
     }
   }
 }
