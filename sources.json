@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "superpowers",
+      "repository": "obra/superpowers",
+      "branch": "main",
+      "path": "plugins/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "type": "git-submodule"
+    },
+    {
+      "id": "mattpocock-skills",
+      "repository": "mattpocock/skills",
+      "branch": "main",
+      "path": "plugins/mattpocock-skills",
+      "url": "https://github.com/mattpocock/skills",
+      "type": "git-submodule"
+    },
+    {
+      "id": "ecc",
+      "repository": "affaan-m/ECC",
+      "branch": "main",
+      "path": "plugins/ecc",
+      "url": "https://github.com/affaan-m/ECC",
+      "type": "git-submodule"
+    },
+    {
+      "id": "anthropic-skills",
+      "repository": "anthropics/skills",
+      "branch": "main",
+      "path": "plugins/anthropic-skills",
+      "url": "https://github.com/anthropics/skills",
+      "type": "git-submodule"
+    },
+    {
+      "id": "ponytail",
+      "repository": "DietrichGebert/ponytail",
+      "branch": "main",
+      "path": "plugins/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "type": "git-submodule"
+    },
+    {
+      "id": "ui-ux-pro-max",
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "branch": "main",
+      "path": "plugins/ui-ux-pro-max",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "type": "git-submodule"
+    },
+    {
+      "id": "gstack",
+      "repository": "garrytan/gstack",
+      "branch": "main",
+      "path": "plugins/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "type": "git-submodule"
+    },
+    {
+      "id": "caveman",
+      "repository": "JuliusBrussee/caveman",
+      "branch": "main",
+      "path": "plugins/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "type": "git-submodule"
+    },
+    {
+      "id": "agent-skills",
+      "repository": "addyosmani/agent-skills",
+      "branch": "main",
+      "path": "plugins/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "type": "git-submodule"
+    },
+    {
+      "id": "claude-mem",
+      "repository": "thedotmack/claude-mem",
+      "branch": "main",
+      "path": "plugins/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "type": "git-submodule"
+    },
+    {
+      "id": "humanizer",
+      "repository": "blader/humanizer",
+      "branch": "main",
+      "path": "plugins/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "type": "git-submodule"
+    },
+    {
+      "id": "notebooklm-skill",
+      "repository": "PleasePrompto/notebooklm-skill",
+      "branch": "master",
+      "path": "plugins/notebooklm-skill",
+      "url": "https://github.com/PleasePrompto/notebooklm-skill",
+      "type": "git-submodule"
+    },
+    {
+      "id": "hyperframes",
+      "repository": "heygen-com/hyperframes",
+      "branch": "main",
+      "path": "plugins/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "type": "git-submodule"
+    }
+  ],
+  "additional": [
+    {
+      "id": "frontend-design",
+      "type": "nested-skill",
+      "path": "plugins/anthropic-skills/skills/frontend-design",
+      "upstream": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "listing": "https://claude.com/plugins/frontend-design"
+    }
+  ]
+}
