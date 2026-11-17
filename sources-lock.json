@@ -14,7 +14,7 @@
     "ecc": {
       "repository": "affaan-m/ECC",
       "branch": "main",
-      "sha": "8abdf329ecbc9315dc4e3334a5702782f70b8b02"
+      "sha": "3f14a103a8694e51c1df9a806217a6d0b5f7a6f7"
     },
     "anthropic-skills": {
       "repository": "anthropics/skills",
@@ -34,7 +34,7 @@
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "5dcd76b4eae6bb06f73460d3ab29cef8e33e8537"
+      "sha": "e0c4136dc2999840720091ee772666127099e13d"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -49,7 +49,7 @@
     "claude-mem": {
       "repository": "thedotmack/claude-mem",
       "branch": "main",
-      "sha": "82d3602e2e43503ffd39c180b2af5f7521fc457b"
+      "sha": "3d1aa47ec6406c88a76bf9289c4a4248282303e6"
     },
     "humanizer": {
       "repository": "blader/humanizer",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "32fe10a8b3d33e39bf540d17dc4fe551e2d152a9"
+      "sha": "9b565c8e025d0aae71a0ca061a21ef2edf893f8d"
     }
   }
 }
