@@ -34,12 +34,12 @@
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "e0c4136dc2999840720091ee772666127099e13d"
+      "sha": "cbd21f94243405223d87f64658c0deac009b7cda"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
       "branch": "main",
-      "sha": "9b243662ff98d392bc0a95b865a554583d71be75"
+      "sha": "a192894723a8f47e7f504c7b5041967ff1f18e55"
     },
     "agent-skills": {
       "repository": "addyosmani/agent-skills",
@@ -49,7 +49,7 @@
     "claude-mem": {
       "repository": "thedotmack/claude-mem",
       "branch": "main",
-      "sha": "3d1aa47ec6406c88a76bf9289c4a4248282303e6"
+      "sha": "5150d8e84d9f92f56250c836ed5e586e1d28e4af"
     },
     "humanizer": {
       "repository": "blader/humanizer",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "9b565c8e025d0aae71a0ca061a21ef2edf893f8d"
+      "sha": "59fbb22ebac388d74c93c038a0b47975be8f7f1f"
     }
   }
 }
