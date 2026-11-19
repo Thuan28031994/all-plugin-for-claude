@@ -9,7 +9,7 @@
     "mattpocock-skills": {
       "repository": "mattpocock/skills",
       "branch": "main",
-      "sha": "5863806dd4e15c63174bee4e7515a4256792ecfa"
+      "sha": "abeeaf95660ba9e8b7c753eb38f441ca707a8823"
     },
     "ecc": {
       "repository": "affaan-m/ECC",
@@ -29,12 +29,12 @@
     "ui-ux-pro-max": {
       "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
       "branch": "main",
-      "sha": "0fa6f35939138cdfaa97cb375e711396bb1e43a7"
+      "sha": "2de1134dc4d1cfe112934611ae5803ae17a1bd7e"
     },
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "f79a8905c75fbc7e436e274d0cdbac8ecdeec458"
+      "sha": "9610ba43db3b9c9992eec69e555d94a99d9c807d"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -49,12 +49,12 @@
     "claude-mem": {
       "repository": "thedotmack/claude-mem",
       "branch": "main",
-      "sha": "c62467ca301c85e809f2f40809b862c23cf47c1a"
+      "sha": "4b48c5727ab62ee22e72a71b822a2fb225491fa2"
     },
     "humanizer": {
       "repository": "blader/humanizer",
       "branch": "main",
-      "sha": "b48c832f0f809c1b5658edbb838c2521b72f2413"
+      "sha": "a48c60c2a3f7a0f6ecc8f9b8d2b1ef71c7927155"
     },
     "notebooklm-skill": {
       "repository": "PleasePrompto/notebooklm-skill",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "4d17b71b4d6801e19473e8f6cf260e0e63f0bf70"
+      "sha": "765883195eb0a40c1062715879270e55f9074a67"
     }
   }
 }
