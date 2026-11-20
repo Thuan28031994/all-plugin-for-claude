@@ -1,10 +1,10 @@
 # Claude Plugins & Skills — Source Hub
 
-Tổng hợp **14 mục trong danh sách gốc**: **13 kho GitHub** dưới dạng Git submodule và **1 plugin `frontend-design`** được tham chiếu từ thư mục con của `anthropics/skills`.
+Tổng hợp **15 mục**: **14 kho GitHub** dưới dạng Git submodule (13 nguồn ban đầu và Marketing Skills) cùng **1 plugin `frontend-design`** được tham chiếu từ thư mục con của `anthropics/skills`.
 
 > **Đây là thư viện nguồn có ghim phiên bản, không phải một plugin Claude Code duy nhất.** Các dự án có cơ chế cài đặt và yêu cầu riêng. Hãy đọc README/LICENSE của từng nguồn trước khi cài hoặc thực thi.
 
-## Danh mục 14 nguồn
+## Danh mục 15 mục
 
 | # | Tên | Nguồn chính thức | Nơi truy cập trong repo này |
 |---|---|---|---|
@@ -22,6 +22,7 @@ Tổng hợp **14 mục trong danh sách gốc**: **13 kho GitHub** dưới dạ
 | 12 | NotebookLM Skill | [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | [plugins/notebooklm-skill](plugins/notebooklm-skill) |
 | 13 | Hyperframes | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [plugins/hyperframes](plugins/hyperframes) |
 | 14 | Frontend Design (Claude) | [Claude plugin](https://claude.com/plugins/frontend-design) · [mã nguồn](https://github.com/anthropics/skills/tree/main/skills/frontend-design) | [plugins/anthropic-skills/skills/frontend-design](plugins/anthropic-skills/skills/frontend-design) — dùng chung nguồn số 4 |
+| 15 | Marketing Skills (Corey Haines) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [plugins/marketingskills](plugins/marketingskills) |
 
 **Lưu ý:** `PleasePrompto/notebooklm-skill` đã được chủ sở hữu lưu trữ (archived), vì vậy có thể không phát sinh bản cập nhật mới. `frontend-design` không được tạo bản sao thứ hai.
 

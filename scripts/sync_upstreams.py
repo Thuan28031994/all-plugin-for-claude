@@ -41,8 +41,8 @@ def get_head(repo, branch):
 def main():
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     sources = manifest["sources"]
-    if len(sources) != 13:
-        raise ValueError("Expected 13 git submodule sources")
+    if not sources:
+        raise ValueError("No git submodule sources configured")
     # Resolve every upstream first; fail atomically if any endpoint fails.
     updates = []
     for item in sources:

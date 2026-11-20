@@ -104,6 +104,14 @@
       "path": "plugins/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "type": "git-submodule"
+    },
+    {
+      "id": "marketingskills",
+      "repository": "coreyhaines31/marketingskills",
+      "branch": "main",
+      "path": "plugins/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "type": "git-submodule"
     }
   ],
   "additional": [

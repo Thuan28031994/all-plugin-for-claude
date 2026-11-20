@@ -50,3 +50,7 @@
 	path = plugins/hyperframes
 	url = https://github.com/heygen-com/hyperframes.git
 	branch = main
+[submodule "plugins/marketingskills"]
+	path = plugins/marketingskills
+	url = https://github.com/coreyhaines31/marketingskills.git
+	branch = main

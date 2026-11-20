@@ -65,6 +65,11 @@
       "repository": "heygen-com/hyperframes",
       "branch": "main",
       "sha": "7b3eda1908e4c69d2bbbbb59cffaa3acdd740ac1"
+    },
+    "marketingskills": {
+      "repository": "coreyhaines31/marketingskills",
+      "branch": "main",
+      "sha": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1"
     }
   }
 }
