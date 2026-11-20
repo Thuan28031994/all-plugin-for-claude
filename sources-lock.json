@@ -14,7 +14,7 @@
     "ecc": {
       "repository": "affaan-m/ECC",
       "branch": "main",
-      "sha": "ccd8da1a724b7b9baf1b6b711073840f8e143313"
+      "sha": "4adeee6732a12d1540f49a4d50a38ce8c97f9a53"
     },
     "anthropic-skills": {
       "repository": "anthropics/skills",
@@ -34,7 +34,7 @@
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "858679423cc4778f9961d4aaf3c061a9368985ec"
+      "sha": "92c6c8a55ca2070c3611d2f7126f14c2f1277581"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "7b3eda1908e4c69d2bbbbb59cffaa3acdd740ac1"
+      "sha": "4e3c9604572a4d5d5abdc1578964766828f04e76"
     },
     "marketingskills": {
       "repository": "coreyhaines31/marketingskills",
