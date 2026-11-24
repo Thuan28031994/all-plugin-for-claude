@@ -9,7 +9,7 @@
     "mattpocock-skills": {
       "repository": "mattpocock/skills",
       "branch": "main",
-      "sha": "abeeaf95660ba9e8b7c753eb38f441ca707a8823"
+      "sha": "d65391149dbb5fe76478e76fa8d5122b2aa5a70e"
     },
     "ecc": {
       "repository": "affaan-m/ECC",
@@ -29,12 +29,12 @@
     "ui-ux-pro-max": {
       "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
       "branch": "main",
-      "sha": "f2f7266b07805025421611656045e9b44b41e2eb"
+      "sha": "8db36338810d0942567b97ce439affd1619fcf31"
     },
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "7deee4292c3d96d97640960c95ef3857ae1d47e1"
+      "sha": "afb68ac2b1876848de08a4f0ee3085ba1984e691"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -49,7 +49,7 @@
     "claude-mem": {
       "repository": "thedotmack/claude-mem",
       "branch": "main",
-      "sha": "2c57eb156ee726c8f0f22502cc9bfcc0a8353526"
+      "sha": "4dc8e48cddee663edc3e401109f836d11f926a45"
     },
     "humanizer": {
       "repository": "blader/humanizer",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "02636023f9eae12a742f23d41f0966d0d1358aa2"
+      "sha": "ca64f8b5de709c56694ec184e5f8b8c0b25c1041"
     },
     "marketingskills": {
       "repository": "coreyhaines31/marketingskills",
