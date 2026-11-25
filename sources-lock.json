@@ -34,7 +34,7 @@
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "afb68ac2b1876848de08a4f0ee3085ba1984e691"
+      "sha": "47b464a0d4a9f361b7e74f050fd569a49b20078a"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -49,7 +49,7 @@
     "claude-mem": {
       "repository": "thedotmack/claude-mem",
       "branch": "main",
-      "sha": "4dc8e48cddee663edc3e401109f836d11f926a45"
+      "sha": "11fdec893eb4ece18ff946758e75e82c92aff71b"
     },
     "humanizer": {
       "repository": "blader/humanizer",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "ca64f8b5de709c56694ec184e5f8b8c0b25c1041"
+      "sha": "3953e2dffc7b80f35cac69590c28fbe89f4a8b7e"
     },
     "marketingskills": {
       "repository": "coreyhaines31/marketingskills",
