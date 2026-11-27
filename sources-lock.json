@@ -29,7 +29,7 @@
     "ui-ux-pro-max": {
       "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
       "branch": "main",
-      "sha": "b244c0448bff0a891f972672d47df9c47d61ac31"
+      "sha": "11ca2b3bdd555649f278ee348c32a9302b24dcf1"
     },
     "gstack": {
       "repository": "garrytan/gstack",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "fcaf8ca87aab4b4ff5ad3d609ebcd92ee896ac3c"
+      "sha": "113b4d875d8fe05e711be928cdc7deaa0eff04a7"
     },
     "marketingskills": {
       "repository": "coreyhaines31/marketingskills",
