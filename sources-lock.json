@@ -9,7 +9,7 @@
     "mattpocock-skills": {
       "repository": "mattpocock/skills",
       "branch": "main",
-      "sha": "6f7f7831a625f040a8e06a0e7954826b87ce775a"
+      "sha": "bbadaa631c37af594e5a05c9cefacd9956136b18"
     },
     "ecc": {
       "repository": "affaan-m/ECC",
@@ -34,7 +34,7 @@
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "306ff23b9d2bd7951b7f6c408c7376f3237520c9"
+      "sha": "9befb56288fcf4948353c19820e0cf157108aa71"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "113b4d875d8fe05e711be928cdc7deaa0eff04a7"
+      "sha": "4276039576d4bf7345f57f545723c8125eaed5a7"
     },
     "marketingskills": {
       "repository": "coreyhaines31/marketingskills",
