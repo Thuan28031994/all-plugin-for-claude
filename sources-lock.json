@@ -34,7 +34,7 @@
     "gstack": {
       "repository": "garrytan/gstack",
       "branch": "main",
-      "sha": "9befb56288fcf4948353c19820e0cf157108aa71"
+      "sha": "b022764a366938320f1f4e652d09517c03da7837"
     },
     "caveman": {
       "repository": "JuliusBrussee/caveman",
@@ -64,7 +64,7 @@
     "hyperframes": {
       "repository": "heygen-com/hyperframes",
       "branch": "main",
-      "sha": "4276039576d4bf7345f57f545723c8125eaed5a7"
+      "sha": "70266b2da556b614022ec4a08f085cf588a400d3"
     },
     "marketingskills": {
       "repository": "coreyhaines31/marketingskills",
